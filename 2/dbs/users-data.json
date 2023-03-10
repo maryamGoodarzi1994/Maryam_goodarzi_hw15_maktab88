@@ -1,0 +1,28 @@
+[
+  {
+    "firsname": "john",
+    "lastname": "smith",
+    "username": "john_smith",
+    "password": "user1234",
+    "gender": "male",
+    "isLoggedIn":"false"
+  },
+  {
+    "firsname": "mary",
+    "lastname": "good",
+    "username": "mary_goody",
+    "password": "5678",
+    "gender": "female",
+    "isLoggedIn":"false"
+
+  },
+  {
+    "firstname": "userFirstname",
+    "lastname": "userLastname",
+    "username": "aaaa",
+    "password": "1234",
+    "gender": "userGender",
+    "isLoggedIn":"false"
+
+  }
+]
